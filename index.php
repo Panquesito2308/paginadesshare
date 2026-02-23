@@ -12,7 +12,7 @@
      <Br>
      <H2>INTEGRANTES</H2>
      <ul>
-            <li><a href="./sosa.docx">DESCARGAR EL CV DE SOSAS</a></li>
+            <li><a href="./sosa.docx">DESCARGAR EL CV DE SOSA</a></li>
             <li><a href="./francisco.docx">DESCARGAR EL CV DE GOMEZ</a></li>
             <li><a href="./sara.docx">EL CV DE RODRIGUEZ</a></li>
     </ul>
