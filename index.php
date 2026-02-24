@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SISTEMON</title>
 </head>
-<body>
+<body style="text-align: center;">
     <H1>BIENVENIDOS AL PROYECTO ABC</H1>
     <Br>
     <img src="./images.png" alt="SISTEMON" width="300px">
