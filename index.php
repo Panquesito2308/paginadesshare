@@ -5,17 +5,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SISTEMON</title>
 </head>
-<body>
+<body style="text-align: center;">
     <H1>BIENVENIDOS AL PROYECTO ABC</H1>
     <Br>
     <img src="./images.png" alt="SISTEMON" width="300px">
      <Br>
      <H2>INTEGRANTES</H2>
+<<<<<<< HEAD
      <ul>
             <li><a href="./sosa.docx">DESCARGAR EL CV DE SOSA</a></li>
             <li><a href="./francisco.docx">DESCARGAR EL CV DE GOMEZ</a></li>
             <li><a href="./sara.docx">EL CV DE RODRIGUEZ</a></li>
     </ul>
+=======
+     <Ul>
+        <li><a href="./sosa.docx">DESCARGAR EL CV DE SOSAS</a></li>
+            <li><a href="./francisco.docx">DESCARGAR EL CV DE GOMEZ</a></li>
+            <li><a href="./sara.docx">DESCARGAR EL CV DE RODRIGUEZ</a></li>
+           
+     </Ul>
+>>>>>>> main
 </Br>
 </body>
 </html>
